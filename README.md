@@ -1,2 +1,2 @@
 # palindrom
-manipulasi string
+manipulasi string menggunakan python
